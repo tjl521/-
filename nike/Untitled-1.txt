@@ -1,0 +1,16 @@
+<div class="container">
+
+    <div class="left">
+        <div class="list">
+            ul
+        </div>
+    </div>
+
+    <div class="right" style="display: inline-flex">
+        <div></div>
+        <div></div>
+        <div></div>
+    </div>
+
+
+</div>
